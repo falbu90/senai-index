@@ -1,3 +1,5 @@
 # senai-index
 
-Treinamento
+readme de exemplo
+
+lembrei do comando: git commit
